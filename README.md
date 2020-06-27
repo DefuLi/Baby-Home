@@ -78,6 +78,8 @@
 (3)	服务器端功能实现<br>
 服务器端的开发环境如下：<br>
 开发工具：PyCharm 2019.1.3   开发语言：Python 3.7.0  服务器框架：Flask<br>
+<br>
+
 1)	视频分帧模块<br>
 服务器接收到管理人员上传的静态监控视频后，需要对视频进行分帧处理，按照2S/帧进行帧图像提取，建立帧图像数据库。图14为分帧结果，将上传的11s静态监控视频分成了4帧。<br>
 ![image](https://github.com/DefuLi/Baby-Home/blob/master/picture/pic14.png)
